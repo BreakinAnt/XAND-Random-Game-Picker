@@ -1,0 +1,15 @@
+{
+  "name": "xandGamePicker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "exceljs": "^3.4.0"
+  },
+  "devDependencies": {}
+}
