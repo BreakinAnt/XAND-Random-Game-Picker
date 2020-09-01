@@ -3,7 +3,3 @@
 - Type "npm start" or just "node app.js" to start the app.<br/>
 
 After starting the app, your terminal will ask you for a .xlsl name, type whatever's in "/excel" and press enter, it'll return a random value inside the asked excel file(in this case, a random video game).
-
-<b>TO-DO:</b>
-- Make an interface.
-- That's it I guess.
